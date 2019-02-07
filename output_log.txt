@@ -1,0 +1,34 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 21.21.13.4201]
+    Renderer: NVIDIA GeForce GT 330M 
+    Vendor:   NVIDIA
+    VRAM:     972 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Rabia\Desktop\MIX\CG\ROE2_3D\ROE 2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Rabia\Desktop\MIX\CG\ROE2_3D\ROE 2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Rabia\Desktop\MIX\CG\ROE2_3D\ROE 2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Rabia\Desktop\MIX\CG\ROE2_3D\ROE 2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Rabia\Desktop\MIX\CG\ROE2_3D\ROE 2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Rabia\Desktop\MIX\CG\ROE2_3D\ROE 2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Rabia\Desktop\MIX\CG\ROE2_3D\ROE 2_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Rabia\Desktop\MIX\CG\ROE2_3D\ROE 2_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Rabia\Desktop\MIX\CG\ROE2_3D\ROE 2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Rabia\Desktop\MIX\CG\ROE2_3D\ROE 2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Rabia\Desktop\MIX\CG\ROE2_3D\ROE 2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Rabia\Desktop\MIX\CG\ROE2_3D\ROE 2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.073 seconds
+Platform assembly: C:\Users\Rabia\Desktop\MIX\CG\ROE2_3D\ROE 2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Rabia\Desktop\MIX\CG\ROE2_3D\ROE 2_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Rabia\Desktop\MIX\CG\ROE2_3D\ROE 2_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Rabia\Desktop\MIX\CG\ROE2_3D\ROE 2_Data\Managed\Boo.Lang.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.653251 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1e94 -> priority: 1 
+  Thread -> id: 2a38 -> priority: 1 
